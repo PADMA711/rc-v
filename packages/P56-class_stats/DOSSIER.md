@@ -58,16 +58,16 @@ Ans3)It sits at the I/O layer, built from gates and flip-flops. The core feeds i
 ## E4 Syllabus map
 Tick every syllabus topic your work touched (main units: Unit 4, Unit 5).
 
-- [ ] Logic gates, Boolean algebra, K-maps
+- [x ] Logic gates, Boolean algebra, K-maps
 - [ ] Combinational circuits (adders, decoders, encoders, multiplexers)
-- [ ] Flip-flops, registers, counters
+- [x ] Flip-flops, registers, counters
 - [ ] Memory (RAM, ROM)
-- [ ] Number systems, complements, signed arithmetic
-- [ ] Bus organisation, instruction codes and formats
+- [x ] Number systems, complements, signed arithmetic
+- [x ] Bus organisation, instruction codes and formats
 - [ ] Instruction cycle, hardwired vs microprogrammed control
 - [ ] Interrupts and the interrupt cycle
 - [ ] Pipelining
 - [ ] Register organisation, stack, addressing modes
-- [ ] RISC vs CISC, multicore, GPU
+- [x ] RISC vs CISC, multicore, GPU
 - [ ] Memory hierarchy, cache
 - [ ] I/O interface, programmed / interrupt-driven I/O, DMA
